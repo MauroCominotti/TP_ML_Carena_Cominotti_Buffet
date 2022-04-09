@@ -1,6 +1,12 @@
-$ sudo apt install python3-pip
-
-$ pip install jupyter[notebook] pandas numpy matplotlib seaborn plotly scikit-learn keras tensorflow h5py pillow sklearn-pandas --user
-
-$ jupyter notebook
-
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+keras
+tensorflow
+h5py
+pillow
+sklearn-pandas
