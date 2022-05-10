@@ -10,3 +10,6 @@ tensorflow
 h5py
 pillow
 sklearn-pandas
+sklearn
+collections
+warnings
