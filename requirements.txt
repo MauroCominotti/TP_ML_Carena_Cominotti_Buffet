@@ -11,4 +11,5 @@ h5py
 pillow
 sklearn-pandas
 sklearn
-warnings
+graphviz
+pydot
